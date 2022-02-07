@@ -33,6 +33,7 @@ int main(int argc, char* argv[]) {
       }
     }
   }
+  
   for (auto &broker : brokers) {
     broker.second.print(); //печать значений
   }
