@@ -1,4 +1,4 @@
-// Copyright 2021 Your Name <your_email>
+// Copyright 2021 Alexey <leo678337@gmail.com>
 
 #include <gtest/gtest.h>
 
